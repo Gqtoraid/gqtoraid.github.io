@@ -3,7 +3,7 @@ const header = document.querySelector("#header");
 let navbarTemplate = `
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
-          <a class="navbar-brand" href="#">Chazi</a>
+          <a class="navbar-brand" href="#">ZoudyWasTaken</a>
           <button
             class="navbar-toggler"
             type="button"
